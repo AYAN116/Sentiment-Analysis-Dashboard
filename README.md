@@ -1,7 +1,7 @@
 
 
 # Employee Sentiment and HR Analytics Dashboard
-### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNWZlMTg2OWYtMDBmNC00Njk4LTkyNTEtOGViNWRjYTA5ZmMyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNmI0NzFlODYtM2NlOC00ZDhmLTg1NWQtMzZhZmQ0NTE5MGIyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 This project showcases an interactive Power BI dashboard designed to provide an insightful overview of employee satisfaction, workforce demographics, and HR performance metrics. The dashboard empowers organizations to make data-driven decisions to enhance employee engagement, retention, and organizational efficiency.
 
 # Dashboard Insights:
